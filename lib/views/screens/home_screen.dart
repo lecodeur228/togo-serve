@@ -1,13 +1,9 @@
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'package:line_icons/line_icons.dart';
 import 'package:togoserve/constants.dart';
 import 'package:togoserve/utils/screen_size.dart';
 import 'package:togoserve/utils/text_size.dart';
-import 'package:togoserve/views/screens/place_screen.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
-import 'package:heroicons/heroicons.dart';
 import 'package:togoserve/views/widgets/article_widget.dart';
 import 'package:togoserve/views/widgets/place_widget.dart';
 
